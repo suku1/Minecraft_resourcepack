@@ -1,0 +1,2 @@
+# Minecraft_resourcepack
+Minecraft用リソースパック
